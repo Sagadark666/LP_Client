@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import NavBar from './Nav';
-import Home from './home';
-import About from './about';
-import Projects from './project';
-import ContactUs from './contactus';
+import logo from './resources/logo.svg';
+import './styles/App.css';
+import NavBar from './templates/Nav';
+import Home from './pages/home';
+import About from './pages/about';
+import Projects from './pages/project';
+import ContactUs from './pages/contactus';
 
 
 function App() {

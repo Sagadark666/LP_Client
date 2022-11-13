@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from '../resources/logo.svg';
+import '../styles/App.css';
 
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Home
+          About Me
         </a>
       </header>
     </div>
